@@ -1,7 +1,7 @@
 
 # Writer YusufSoliev
 ## Info About JS:Javascript
-![](https://repository-images.githubusercontent.com/657736250/efe020c3-cfc2-41f9-be41-ad581ffc9969)
+![](https://i.pinimg.com/originals/cd/fd/a4/cdfda49dd7071ec1623e87f55943ab3e.gif)
 # When JS was created ?
 ### Bredan Eich crates the very first version of JavaScript in just 10 days in 1995 . Firstly it was called Mocha .in 1996 renamed in to LiveSript . And also in same year it renamed to JavaScript.
 # What is JS:JavaScript ?
@@ -42,5 +42,7 @@ to use const
 ### 5.Assignment ( = , += , -= , *= , /= , ^= , %= )
 # JavaScript Arithmetic Operators
 ![image](https://github.com/yusufjannn/Lecture_1/assets/171818496/b47a181d-7672-462e-a1de-08357c371bc1)
+# This is how HTML/CSS and JavaScript works
+![](https://i.pinimg.com/564x/34/18/62/3418629d0ee275d54a1542732bc5e0e5.jpg)
 # That is over about first Lecture Goodbye
 
